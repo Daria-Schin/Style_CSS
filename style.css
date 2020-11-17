@@ -3,6 +3,7 @@
   font-style: oblique;
   font-size: medium;
   font-synthesis: none;
+  font-family: 'Source Sans Pro', sans-serif;
  }
 .header__text{
  background: yellow;
@@ -11,6 +12,7 @@
  border-width: 10px;
  top: 20px;
  font-family: fantasy;
+ font-family: 'Rubik', sans-serif;
  }
  .section__text{
  text-align: justify;
